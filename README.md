@@ -9,13 +9,13 @@
 
 ## 🤖 Tecnologias Utilizadas
 https://openai.com/pt-BR/chatgpt/
-https://www.flexclip.com/es/editor/app?module=ai-video-generator
+https://ai.invideo.io/
 
 ## 🧐 Processo de Criação
-Utilizei a ajuda do ChatGPT para elaborar o roteiro. forneci ao ChatGPT uma visão geral do tema e objetivos que gostaria, em seguida, dei sugestões e refinamos até chegar ao roteiro final. Depois utilizei 
+Utilizei a ajuda do ChatGPT para elaborar o roteiro. forneci ao ChatGPT uma visão geral do tema e objetivos que gostaria, em seguida, dei sugestões e refinamos até chegar ao roteiro final. Depois utilizei o invideo e pedi para fazer a criação do video com a narração
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
