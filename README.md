@@ -9,14 +9,14 @@
 
 ## 🤖 Tecnologias Utilizadas
 https://openai.com/pt-BR/chatgpt/
-https://ai.invideo.io/
+https://studio.d-id.com/video-studio
 
 ## 🧐 Processo de Criação
-Utilizei a ajuda do ChatGPT para elaborar o roteiro. forneci ao ChatGPT uma visão geral do tema e objetivos que gostaria, em seguida, dei sugestões e refinamos até chegar ao roteiro final. Depois utilizei o invideo e pedi para fazer a criação do video com a narração
+Utilizei a ajuda do ChatGPT para elaborar o roteiro. forneci ao ChatGPT uma visão geral do tema e objetivos que gostaria, em seguida, dei sugestões e refinamos até chegar ao roteiro final. Depois utilizei o D-ID para fazeruma narração com uma foto minha.
 
 ## 🚀 Resultados
-
+Interessante, eu diria, porem ainda falso, pois as expressões faciais ficaram só na boca. Mas se fosse em um circulo pequeno em um vídeo, como um PITCH, passararia tranquilamente por real.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Pesquisei varias IA´s e cada uma vazia uma coisa diferente, achei muitas ótimas. Como estava sem tempo para terminar a atividade, acabei retornando na do exemplo e fazendo com ela mesmo.
 ```
