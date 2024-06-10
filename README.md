@@ -18,5 +18,5 @@ Utilizei a ajuda do ChatGPT para elaborar o roteiro. forneci ao ChatGPT uma vis�
 Interessante, eu diria, porem ainda falso, pois as expressões faciais ficaram só na boca. Mas se fosse em um circulo pequeno em um vídeo, como um PITCH, passararia tranquilamente por real.
 
 ## 💭 Reflexão (Opcional)
-Pesquisei varias IA´s e cada uma vazia uma coisa diferente, achei muitas ótimas. Como estava sem tempo para terminar a atividade, acabei retornando na do exemplo e fazendo com ela mesmo.
+Pesquisei varias IA´s e cada uma com habilidades diferentes, achei muitas ótimas. Como estava sem tempo para terminar a atividade, acabei retornando na do exemplo e fazendo com ela mesmo.
 ```
